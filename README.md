@@ -6,11 +6,11 @@ Earl's vim setup for new PCs
 
 ## Requirements
 
-* Latest version of [Python 3]([https://www.python.org/downloads/](https://www.python.org/downloads/)) is required for [UltiSnips]([https://github.com/SirVer/ultisnips](https://github.com/SirVer/ultisnips))
-* Latest version of [Python 2]([https://www.python.org/downloads/](https://www.python.org/downloads/)) for 
-* [eHelper]([https://github.com/earlisreal/eHelper-Chrome-Extension](https://github.com/earlisreal/eHelper-Chrome-Extension)) Chrome extension
-* [Cygwin]([https://www.cygwin.com/](https://www.cygwin.com/)) as g++ compiler
-* [Java 8+]([https://www.oracle.com/java/technologies/javase-jdk13-downloads.html](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html)) of course
+* Latest version of [Python 3](https://www.python.org/downloads/) is required for [UltiSnips]([https://github.com/SirVer/ultisnips](https://github.com/SirVer/ultisnips))
+* Latest version of [Python 2](https://www.python.org/downloads/) for 
+* [eHelper](https://github.com/earlisreal/eHelper-Chrome-Extension) Chrome extension
+* [Cygwin](https://www.cygwin.com/) as g++ compiler
+* [Java 8+](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html) of course
 
 
 ## Vim Plugins
