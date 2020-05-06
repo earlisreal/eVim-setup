@@ -82,4 +82,5 @@ inoremap <C-w>     <Esc>:tabclose<CR>
 :map <F11> :EhelperRunTestCases<CR>
 :map <F9> :EhelperCompile<CR>
 :map <F12> :EhelperToggleOutput<CR>
+:map <F8> :EhelperToggleTests<CR>
 let g:allow_time_limit = 0
