@@ -6,8 +6,7 @@ Earl's vim setup for new PCs
 
 ## Requirements
 
-* Latest version of [Python 3](https://www.python.org/downloads/) is required for [UltiSnips]([https://github.com/SirVer/ultisnips](https://github.com/SirVer/ultisnips))
-* Latest version of [Python 2](https://www.python.org/downloads/) for 
+* Latest version of [Python 3](https://www.python.org/downloads/)
 * [eHelper](https://github.com/earlisreal/eHelper-Chrome-Extension) Chrome extension
 * [Cygwin](https://www.cygwin.com/) as g++ compiler
 * [Java 8+](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html) of course
@@ -33,7 +32,7 @@ Copy the attached _vimrc file
 
 ## System Variables
 
-    C:\Program Files\Java\jdk-13.0.2\bin;C:\cygwin64\bin;C:\Program Files\Vim\vim82;C:\Python27;C:\Program Files\Python38\;C:\Program Files\Python38\Scripts\
+    C:\Program Files\Java\jdk-13.0.2\bin;C:\cygwin64\bin;C:\Program Files\Vim\vim82;C:\Python38\;C:\Python38\Scripts\
 
 ## vim-snippets
 
