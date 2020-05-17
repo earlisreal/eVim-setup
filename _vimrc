@@ -45,8 +45,12 @@ set ruler
 set undolevels=1000
 set backspace=indent,eol,start
 
+" Look and Feel
 set guifont=courier_new:h11:b
 "set guifont=courier_new:h10
+
+set lines=35
+set columns=100
 
 set noerrorbells visualbell t_vb=
 autocmd GUIEnter * set visualbell t_vb=
