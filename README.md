@@ -11,6 +11,9 @@ Earl's vim setup for new PCs
 * [Cygwin](https://www.cygwin.com/) as g++ compiler
 * [Java 8+](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html) of course
 
+## Install Pathogen
+
+Follow the installation steps here: https://github.com/tpope/vim-pathogen
 
 ## Vim Plugins
 
