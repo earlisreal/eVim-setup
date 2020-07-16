@@ -87,4 +87,7 @@ inoremap <C-w>     <Esc>:tabclose<CR>
 :map <F9> :EhelperCompile<CR>
 :map <F12> :EhelperToggleOutput<CR>
 :map <F8> :EhelperToggleTests<CR>
+
 let g:allow_time_limit = 0
+let g:enable_wsl = 0
+let g:output_window_size = 12
