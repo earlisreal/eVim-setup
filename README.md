@@ -41,42 +41,44 @@ Copy the attached _vimrc file
 
 Custom snippets for C++
 
-initialization
+### initialization
 
-    #include <bits/stdc++.h>
+snippet init "Initialize cpp"
+#include <bits/stdc++.h>
 
-	#define pp push_back
-	#define pf push_front
-	#define mp make_pair
-	#define fs first
-	#define sc second
-	#define sf scanf
+#define pp push_back
+#define pf push_front
+#define mp make_pair
+#define fs first
+#define sc second
+#define sf scanf
 
-	using namespace std;
+using namespace std;
 
-	typedef long long ll;
-	typedef unsigned long long ull;
-	typedef pair<int, int> ii;
+typedef long long ll;
+typedef unsigned long long ull;
+typedef pair<int, int> ii;
 
-	const int N = (int) 1e5;
-	const int INF = (int) 1e9 + 7;
+const int N = (int) 1e5;
+const int INF = (int) 1e9 + 7;
 
-	int main(int argc, char *argv[])
-	{
-		// ios_base::sync_with_stdio(false);
-		// cin.tie(NULL);
+int main(int argc, char *argv[])
+{
+	// ios_base::sync_with_stdio(false);
+	// cin.tie(NULL);
 
-		$0
+	$0
 
-		return 0;
-	}
+	return 0;
+}
+endsnippet
 
-for Loop
+### for Loop
 
-    snippet for "for int loop (for)"
-	for (int ${1:i} = ${2:0}; $1 < ${3:n}; ${4:++$1}) {
-		${VISUAL}$0
-	}
-	endsnippet
+snippet for "for int loop (for)"
+for (int ${1:i} = ${2:0}; $1 < ${3:n}; ${4:++$1}) {
+	${VISUAL}$0
+}
+endsnippet
 
 
