@@ -39,9 +39,9 @@ Copy the attached _vimrc file
 
 ## vim-snippets
 
-Custom snippets for C++
+vim-snippets custom snippets
 
-### initialization
+### CPP initialization
 
     snippet init "Initialize cpp"
     #include <bits/stdc++.h>
@@ -79,5 +79,17 @@ Custom snippets for C++
     snippet for "for int loop (for)"
     for (int ${1:i} = ${2:0}; $1 < ${3:n}; ${4:++$1}) {
     	${VISUAL}$0
+    }
+    endsnippet
+
+### Java Initialization
+    snippet init "Initalize java"
+    import java.util.*;
+    
+    public class Main {
+    	public static void main(String[] args) {
+    		Scanner sc = new Scanner(System.in);
+    		$0
+    	}
     }
     endsnippet
